@@ -88,7 +88,7 @@ Mango-Management/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## 🚀 Quickstart & Local Setup
